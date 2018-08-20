@@ -1,0 +1,4 @@
+input
+.vscode
+.ipynb_checkpoints
+*.csv
